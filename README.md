@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Aditya</h1>
+<h1 align="center">Hey <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"> I'm Aditya</h1>
 
 <div align='center'>
 Hello guys, welcome to my github profile. 
@@ -54,5 +54,7 @@ I'm a Frontend developer
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityarajbhagat2002&show_icons=true&theme=github_dark)
+<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=adityarajbhagat2002&theme=dark&hide_border=true)<br/>
 
 </div>
