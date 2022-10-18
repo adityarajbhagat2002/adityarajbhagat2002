@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"> I'm Aditya</h1>
 
 <div align='center'>
-Hello guys, welcome to my github profile. 
+<Strong>SHOES OUTSIDE PLEASE</Strong>
 </div>
 
 <br/>
