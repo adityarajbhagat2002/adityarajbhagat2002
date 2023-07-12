@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Frontend developer
+I'm a Backend developer
 
 
 🧠 I'm currently learning about Devops
